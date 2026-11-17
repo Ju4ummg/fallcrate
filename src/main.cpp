@@ -1,0 +1,1 @@
+//"Guardião" de arquivos FallCrate
